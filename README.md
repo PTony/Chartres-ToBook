@@ -19,15 +19,15 @@ Technologies utilisées:
 ## Captures d'écrans
 *Accueil*
 
-![Accueil](https://raw.githubusercontent.com/WildCodeSchool/Chartres-ToBook/master/screenshots/screenshot_Accueil_-_ToBook_-_20160907192942.png)
+![Accueil](https://raw.githubusercontent.com/PTony/Chartres-ToBook/dev/screenshots/screenshot_Accueil_-_ToBook_-_20160907192942.png)
 
 *Résultats de recherche*
 
-![Résultats de recherche](https://raw.githubusercontent.com/WildCodeSchool/Chartres-ToBook/master/screenshots/screenshot_Rechercher_-_ToBook_-_20160907193007.png)
+![Résultats de recherche](https://raw.githubusercontent.com/WildCodeSchool/Chartres-ToBook/dev/screenshots/screenshot_Rechercher_-_ToBook_-_20160907193007.png)
 
 *Détails d'un établissement*
 
-![Détails d'un établissement](https://raw.githubusercontent.com/WildCodeSchool/Chartres-ToBook/master/screenshots/screenshot_Club_House_-_HOTEL_CAPRICORNE_-_ToBook_-_20160907193023.png)
+![Détails d'un établissement](https://raw.githubusercontent.com/WildCodeSchool/Chartres-ToBook/dev/screenshots/screenshot_Club_House_-_HOTEL_CAPRICORNE_-_ToBook_-_20160907193023.png)
 
 ## Installation
 
