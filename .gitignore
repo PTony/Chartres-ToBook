@@ -1,5 +1,3 @@
-/web/bundles/
-web/app_dev.php
 /app/bootstrap.php.cache
 /app/cache/*
 /app/config/parameters.yml
@@ -11,4 +9,5 @@ web/app_dev.php
 /vendor/
 /bin/
 /composer.phar
-*.sublime-*
+/web/bundles/
+/web/uploads/*
